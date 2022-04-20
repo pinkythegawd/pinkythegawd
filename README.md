@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align='center'>
+  <b>🎨 Follow me here 🎨</b><br>  
+  <a href="https://discord.gg/kaneki">Discord</a> |
+  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
+  <a href="https://github.com/KanekiWeb">Github</a><br><br>
+  <img src="https://raw.githubusercontent.com/pinkythegawd/pinkythegawd/main/demo/demo.png" style="width: 80%">
+</p>
 
-<!--
-**pinkythegawd/pinkythegawd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##   
 
-Here are some ideas to get you started:
+### 🧰 Support
+- Email: <eeveecutie2@gmail.com>
+- Discord: https://discord.gg/Hm5HbKykyK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  
+
+### 📜 License & Warning
+- Make for education propose only !
+- Under licensed MIT MIT License.
+
+##  
+
