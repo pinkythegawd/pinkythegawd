@@ -10,7 +10,7 @@
 
 ### 🧰 Support
 - Email: <eeveecutie2@gmail.com>
-- Discord: https://discord.gg/Hm5HbKykyK
+- Discord: https://www.notepad.link/X58zK
 
 ##  
 
