@@ -1,0 +1,16 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .image-container img {
+    width: 500px; /* Or any other value you prefer */
+    height: auto;
+    margin: 50px; /* Add 50px margin on all sides */
+  }
+  
+  body {
+    background-color: pink;
+  }

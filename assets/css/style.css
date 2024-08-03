@@ -7,6 +7,15 @@
     scroll-behavior: smooth;
 }
 
+.wave {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.5); /* Example color, adjust as needed */
+    animation: waveAnimation 0.5s linear forwards;
+  }
+
 body {
     background-color: #ff99ff;
     color: #fff;
@@ -178,3 +187,11 @@ section.main ul li a:hover {
         opacity: 1
     }
 }
+
+@keyframes waveAnimation {
+    to {
+      width: 200px;
+      height: 200px;
+      opacity: 0;
+    }
+  }
