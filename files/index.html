@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta Tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="assets/imgs/takanashi_pfp.gif">
+    
+    <!-- Title -->
+    <title>🌴 ・ The Weeb Project</title>
+
+    <!-- Css -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- Javascript -->
+    <script src="assets/js/script.js"></script>
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous">
+
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="header_logo">
+                <img src="assets/imgs/takanashi_pfp.gif" alt="" srcset="">
+            </div>
+            <div class="header_links">
+                <ul class="nav_links">
+                    <li class="nav_link"><a href="#">Home</a></li>
+                    <!-- <li class="nav_link"><a href="#">Shop</a></li> -->
+                    <!-- <li class="nav_link"><a href="#">Repos</a></li> -->
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <section class="main">
+        <img src="assets/imgs/pinky_pfp.gif" alt="" srcset="">
+        <span>pinkythegawd</span>
+        <p>19 years old Programmer</p>
+        <ul>
+            <li><a target="_blank" href="https://www.notepad.link/X58zK"><i class="fab fa-discord"></i></a></li>
+            <li><a target="_blank" href="https://github.com/pinkythegawd"><i class="fab fa-github"></i></a></li>
+            <li><a target="_blank" href="https://www.youtube.com/channel/UCIYU10MOnR9ppunHAQIcfxw"><i class="fab fa-youtube"></i></a></li>
+        </ul>
+    </section>
+
+    <section class="description">
+        <p>Hi! I'm Mickael, a 19-year-old programmer with a passion for all things tech. I'm particularly interested in Web Development, CyberSecurity, making projects for Windows & Linux. I love diving deep into projects and can easily spend 4-7 hours a day coding and experimenting.</p>
+      </section>
+</body>
+<script>
+// Get the current page's URL
+const currentPage = window.location.pathname;
+
+// Check if a pageViews object exists in local storage
+let pageViews = JSON.parse(localStorage.getItem('pageViews')) || {};
+
+// Increment the page view count for the current page
+pageViews[currentPage] = (pageViews[currentPage] || 0) + 1;
+
+// Store the updated pageViews object in local storage
+localStorage.setItem('pageViews', JSON.stringify(pageViews));
+
+// You can then access the page view data from local storage
+console.log(pageViews);    
+</script>
+</html>
