@@ -3,6 +3,7 @@
   <a href="https://www.notepad.link/X58zK">Discord</a> |
   <a href="https://www.youtube.com/channel/UCIYU10MOnR9ppunHAQIcfxw">YouTube</a> |
   <a href="https://github.com/pinkythegawd">Github</a><br><br>
+  <img src="https://raw.githubusercontent.com/pinkythegawd/mikepinku-repository/refs/heads/main/img/download1.jpg" style="width: 80%">
 </p>
 
 ##
