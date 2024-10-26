@@ -1,6 +1,6 @@
 <p align='center'>
   <b>🎨 Follow me here 🎨</b><br>  
-  <a href="https://www.notepad.link/X58zK">Discord</a> |
+  <a href="https://discord.gg/pYeTq3c2KN">Discord</a> |
   <a href="https://www.youtube.com/channel/UCIYU10MOnR9ppunHAQIcfxw">YouTube</a> |
   <a href="https://github.com/pinkythegawd">Github</a><br><br>
   <img src="https://raw.githubusercontent.com/pinkythegawd/mikepinku-repository/refs/heads/main/img/download1.jpg" style="width: 80%">
@@ -16,5 +16,4 @@
 - Email: <mikepinkuofficial@gmail.com>
 - Instagram : https://www.instagram.com/mikepinkuofficial/
 - Twitter : https://x.com/MikePinku2
-- 
-- Discord: https://www.notepad.link/X58zK
+- Discord: https://discord.gg/pYeTq3c2KN
