@@ -8,6 +8,7 @@
 
 ##
 
+![pinkythegawd's Stats](https://github-readme-stats.vercel.app/api?username=pinkythegawd&theme=yeblu&show_icons=true&hide_border=true&count_private=false)
 
 ### 🧰 Support
 - Email: <mikepinkuofficial@gmail.com>
