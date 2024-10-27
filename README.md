@@ -25,7 +25,7 @@
 ##
 ### Want to Support or Contribute to my Projects ?
 <p>
-  <a href="https://www.paypal.me/mikepinku/10">
+  <a href="https://www.paypal.me/mikepinku/1">
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
