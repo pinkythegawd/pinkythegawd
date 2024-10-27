@@ -1,9 +1,9 @@
 <p align='center'>
-  <img src="https://dcbadge.limes.pink/api/shield/729537213464969218"/>
   <b>🎨 Follow me here 🎨</b><br>  
   <a href="https://discord.gg/pYeTq3c2KN">Discord</a> |
   <a href="https://www.youtube.com/channel/UCIYU10MOnR9ppunHAQIcfxw">YouTube</a> |
   <a href="https://github.com/pinkythegawd">Github</a><br><br>
+  <img src="https://dcbadge.limes.pink/api/shield/729537213464969218"/>
   <img src="https://raw.githubusercontent.com/pinkythegawd/mikepinku-repository/refs/heads/main/img/download1.jpg" style="width: 80%">
 </p>
 
