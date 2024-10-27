@@ -1,4 +1,5 @@
 <p align='center'>
+  <img src="https://dcbadge.limes.pink/api/shield/729537213464969218"/>
   <b>🎨 Follow me here 🎨</b><br>  
   <a href="https://discord.gg/pYeTq3c2KN">Discord</a> |
   <a href="https://www.youtube.com/channel/UCIYU10MOnR9ppunHAQIcfxw">YouTube</a> |
