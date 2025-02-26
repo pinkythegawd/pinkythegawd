@@ -5,7 +5,7 @@
   <a href="https://github.com/pinkythegawd">Github</a><br><br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg"/>
   <img src="https://dcbadge.limes.pink/api/shield/729537213464969218"/>
-  <img src="https://raw.githubusercontent.com/pinkythegawd/mikepinku-repository/refs/heads/main/img/download1.jpg" style="width: 80%">
+  <img src="https://raw.githubusercontent.com/pinkythegawd/pinkythegawd/refs/heads/main/github-header-image%20(1).png" style="width: 80%">
 </p>
 
 ##
