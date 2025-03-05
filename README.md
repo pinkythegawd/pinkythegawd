@@ -9,7 +9,7 @@
 </p>
 
 ##
-!(https://komarev.com/ghpvc/?username=pinkythegawd)
+<img src="https://komarev.com/ghpvc/?username=pinkythegawd"/>
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/GNU%2FLinux-42A5F5?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 
